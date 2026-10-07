@@ -10,4 +10,5 @@ export default defineConfig({
     tailwindcss(),
     jsconfigPaths() 
   ],
+  base: '/ujian-sts/',
 })
